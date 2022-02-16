@@ -1,0 +1,40 @@
+body{
+    background-color:antiquewhite;
+}
+
+h1{
+    color:mediumorchid;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color: olivedrab;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.DauDong{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
+
+#Anta{
+    font-weight: bolder;
+    color: red;
+}
+
+#Phala{
+    font-weight: bolder;
+    font-style: italic;
+    color: green;
+}
